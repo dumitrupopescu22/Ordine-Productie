@@ -5,12 +5,26 @@
 }
 
 body {
-  background-color: rgb(123, 251, 232);
+  background-color: rgb(230, 228, 111);
   font-size: 20px;
 }
+
+a {
+  text-decoration: none;
+  padding: 3rem;
+  text-align: center;
+  color: rgb(141, 49, 49);
+}
+
+a:hover {
+  color: rgb(53, 209, 77);
+}
+
 h3 {
   padding: 5px;
+  margin-bottom: 1rem;
   text-align: center;
+  color: rgb(80, 72, 72);
 }
 
 img {
